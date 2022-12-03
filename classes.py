@@ -16,18 +16,26 @@ class Account:
 
 
 class Card:
-    def __init__(self, client: Client, account: Account, pin: str):
-        self.client = client
+    def __init__(self, number: str, account: Account, pin: str):
+        self.number = number
         self.account = account
         self.pin = pin
 
 
 class ATM:
+    def __init__(self):
+        self.run()
+
+    def _run(self):
+        pass
+
     def run(self):
+        print("Please insert your card")
+
+        
         pass
 
     def readCard(self, card: Card):
-        print("Insert Card")
         pass
 
     def verifyPIN(self, pin: str):
@@ -43,4 +51,22 @@ class ATM:
         pass
 
     def withdraw(self):
+        pass
+
+class Bank:
+    def __init__(self):
+        self.clients = []
+        self.accounts = []
+        self.cards = []
+
+    def addClients(self, client: Client):
+        self.clients.append(client)
+
+    def makeAccount(self, client: Client, account: Account):
+        pass
+
+    def identifyClient(self, client: Client):
+        pass
+
+    def identifyAccount(self, account: Account):
         pass
