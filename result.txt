@@ -1,0 +1,294 @@
+[Test case #1]
+==============================
+Please insert your card.
+- input card number : 1234-1234-1234-2222
+
+Please enter pin number of the card.
+- input pin : 666666
+
+------------------------------
+Please select what you want to do.
+1. See Balance.
+2. Deposit.
+3. Withdraw.
+4. Exit
+------------------------------
+- selected option : ['1']
+
+You have 100000 won in your account.
+Thank you.
+==============================
+
+
+==============================
+Please insert your card.
+- input card number : 1234-1234-1234-2222
+
+Please enter pin number of the card.
+- input pin : 666666
+
+------------------------------
+Please select what you want to do.
+1. See Balance.
+2. Deposit.
+3. Withdraw.
+4. Exit
+------------------------------
+- selected option : ['2', '5000']
+
+5000 won has been deposited in your account.
+Now, you have 105000 in your account.
+Thank you.
+==============================
+
+
+==============================
+Please insert your card.
+- input card number : 1234-1234-1234-2222
+
+Please enter pin number of the card.
+- input pin : 666666
+
+------------------------------
+Please select what you want to do.
+1. See Balance.
+2. Deposit.
+3. Withdraw.
+4. Exit
+------------------------------
+- selected option : ['3', '30000']
+
+30000 won has been withdrawn from your account.
+Now, you have 75000 in your account.
+Thank you.
+==============================
+
+
+==============================
+Please insert your card.
+- input card number : 2222-1234-1111-2222
+
+Please enter pin number of the card.
+- input pin : 666666
+
+wrong pin number.
+Thank you.
+==============================
+
+
+==============================
+Please insert your card.
+- input card number : 1234-1234-1234-3333
+
+Please enter pin number of the card.
+- input pin : 777777
+
+------------------------------
+Please select what you want to do.
+1. See Balance.
+2. Deposit.
+3. Withdraw.
+4. Exit
+------------------------------
+- selected option : ['4']
+
+Thank you.
+==============================
+
+
+[Test case #2]
+==============================
+Please insert your card.
+- input card number : 2910-5169-8610-8048
+
+Please enter pin number of the card.
+- input pin : 407566
+
+------------------------------
+Please select what you want to do.
+1. See Balance.
+2. Deposit.
+3. Withdraw.
+4. Exit
+------------------------------
+- selected option : ['1']
+
+You have 100000 won in your account.
+Thank you.
+==============================
+
+
+==============================
+Please insert your card.
+- input card number : 5632-1132-2344-8573
+
+Please enter pin number of the card.
+- input pin : 551425
+
+wrong pin number.
+Thank you.
+==============================
+
+
+==============================
+Please insert your card.
+- input card number : 5632-1132-2344-8573
+
+Please enter pin number of the card.
+- input pin : 312345
+
+------------------------------
+Please select what you want to do.
+1. See Balance.
+2. Deposit.
+3. Withdraw.
+4. Exit
+------------------------------
+- selected option : ['3', '2000']
+
+2000 won has been withdrawn from your account.
+Now, you have 2998000 in your account.
+Thank you.
+==============================
+
+
+==============================
+Please insert your card.
+- input card number : 3254-2233-3245-8233
+
+Please enter pin number of the card.
+- input pin : 324623
+
+------------------------------
+Please select what you want to do.
+1. See Balance.
+2. Deposit.
+3. Withdraw.
+4. Exit
+------------------------------
+- selected option : ['2', '99999999']
+
+99999999 won has been deposited in your account.
+Now, you have 100002999 in your account.
+Thank you.
+==============================
+
+
+==============================
+Please insert your card.
+- input card number : 3620-7900-2562-2564
+
+Please enter pin number of the card.
+- input pin : 308656
+
+------------------------------
+Please select what you want to do.
+1. See Balance.
+2. Deposit.
+3. Withdraw.
+4. Exit
+------------------------------
+- selected option : ['1']
+
+You have 223000 won in your account.
+Thank you.
+==============================
+
+
+==============================
+Please insert your card.
+- input card number : 3931-6294-9832-9385
+
+Please enter pin number of the card.
+- input pin : 844209
+
+------------------------------
+Please select what you want to do.
+1. See Balance.
+2. Deposit.
+3. Withdraw.
+4. Exit
+------------------------------
+- selected option : ['1']
+
+You have 223000 won in your account.
+Thank you.
+==============================
+
+
+==============================
+Please insert your card.
+- input card number : 5632-1132-2344-8573
+
+Please enter pin number of the card.
+- input pin : 123782
+
+wrong pin number.
+Thank you.
+==============================
+
+
+==============================
+Please insert your card.
+- input card number : 3055-3865-2932-8330
+
+Please enter pin number of the card.
+- input pin : 076991
+
+------------------------------
+Please select what you want to do.
+1. See Balance.
+2. Deposit.
+3. Withdraw.
+4. Exit
+------------------------------
+- selected option : ['3', '40000']
+
+40000 won has been withdrawn from your account.
+Now, you have -16000 in your account.
+Thank you.
+==============================
+
+
+==============================
+Please insert your card.
+- input card number : 8366-8667-5450-9546
+
+Please enter pin number of the card.
+- input pin : 771988
+
+------------------------------
+Please select what you want to do.
+1. See Balance.
+2. Deposit.
+3. Withdraw.
+4. Exit
+------------------------------
+- selected option : ['2', '10000000']
+
+10000000 won has been deposited in your account.
+Now, you have 9984000 in your account.
+Thank you.
+==============================
+
+
+==============================
+Please insert your card.
+- input card number : 2910-5169-8610-8048
+
+Please enter pin number of the card.
+- input pin : 407566
+
+------------------------------
+Please select what you want to do.
+1. See Balance.
+2. Deposit.
+3. Withdraw.
+4. Exit
+------------------------------
+- selected option : ['3', '100000']
+
+100000 won has been withdrawn from your account.
+Now, you have 0 in your account.
+Thank you.
+==============================
