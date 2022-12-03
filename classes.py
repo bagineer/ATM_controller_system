@@ -121,7 +121,6 @@ class ATM:
 
     def select_option(self, option: int, money: int = None):
         option = int(option)
-        print("select_option :", option, money)
         if option == 1:
             self.see_balance()
         elif option == 2:
