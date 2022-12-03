@@ -35,6 +35,7 @@ class Account:
         self.balance -= money
         return self.balance
 
+
 class Card:
     def __init__(self, card_number: str, account_number: str, pin: str):
         self.card_number = card_number
@@ -92,7 +93,6 @@ class Bank:
 
     def delete_temporary_data(self):
         self.temporary_data = dict()
-
 
 
 class ATM:
