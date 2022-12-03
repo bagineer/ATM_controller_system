@@ -107,7 +107,7 @@ class ATM:
         if is_correct:
             self.print_options()
         else:
-            print("Wrong pin number")
+            print("wrong pin number.")
         return is_correct
 
     def print_options(self):
@@ -128,7 +128,6 @@ class ATM:
             self.deposit(int(money))
         elif option == 3:
             self.withdraw(int(money))
-        self.quit()
 
     def see_balance(self):
         print(f'You have {self.bank.get_account_balance()} won in your account.')
