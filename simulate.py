@@ -31,7 +31,7 @@ if __name__ == '__main__':
 
         W = int(f.readline())
 
-        for o in range(W):
+        for w in range(W):
             print('='*30)
             print('Please insert your card.')
             input_card_number = f.readline().strip()
