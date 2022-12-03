@@ -29,9 +29,9 @@ if __name__ == '__main__':
                     add_card(client, card)
                     add_card(bank, card)
 
-        O = int(f.readline())
+        W = int(f.readline())
 
-        for o in range(O):
+        for o in range(W):
             print('='*30)
             print('Please insert your card.')
             input_card_number = f.readline().strip()
